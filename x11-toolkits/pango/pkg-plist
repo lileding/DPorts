@@ -64,6 +64,7 @@ libdata/pkgconfig/pangoft2.pc
 libdata/pkgconfig/pangoot.pc
 %%X11%%libdata/pkgconfig/pangoxft.pc
 %%DOCS%%share/doc/Pango/Pango.devhelp2
+%%DOCS%%share/doc/Pango/opensearch.xml
 %%DOCS%%share/doc/Pango/RedHatDisplay-Black.woff
 %%DOCS%%share/doc/Pango/RedHatDisplay-Black.woff2
 %%DOCS%%share/doc/Pango/RedHatDisplay-BlackItalic.woff
@@ -737,6 +738,7 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/Pango/vfunc.Renderer.part_changed.html
 %%DOCS%%share/doc/Pango/vfunc.Renderer.prepare_run.html
 %%DOCS%%share/doc/PangoCairo/PangoCairo.devhelp2
+%%DOCS%%share/doc/PangoCairo/opensearch.xml
 %%DOCS%%share/doc/PangoCairo/RedHatDisplay-Black.woff
 %%DOCS%%share/doc/PangoCairo/RedHatDisplay-Black.woff2
 %%DOCS%%share/doc/PangoCairo/RedHatDisplay-BlackItalic.woff
@@ -769,7 +771,6 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/PangoCairo/SourceCodePro-Regular.ttf.woff
 %%DOCS%%share/doc/PangoCairo/SourceCodePro-Semibold.ttf.woff
 %%DOCS%%share/doc/PangoCairo/callback.ShapeRendererFunc.html
-%%DOCS%%share/doc/PangoCairo/classes_hierarchy.html
 %%DOCS%%share/doc/PangoCairo/fonts.css
 %%DOCS%%share/doc/PangoCairo/func.context_get_font_options.html
 %%DOCS%%share/doc/PangoCairo/func.context_get_resolution.html
@@ -815,6 +816,7 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/PangoCairo/type_func.FontMap.new_for_font_type.html
 %%DOCS%%share/doc/PangoCairo/urlmap.js
 %%DOCS%%share/doc/PangoFT2/PangoFT2.devhelp2
+%%DOCS%%share/doc/PangoFT2/opensearch.xml
 %%DOCS%%share/doc/PangoFT2/RedHatDisplay-Black.woff
 %%DOCS%%share/doc/PangoFT2/RedHatDisplay-Black.woff2
 %%DOCS%%share/doc/PangoFT2/RedHatDisplay-BlackItalic.woff
@@ -880,6 +882,7 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/PangoFT2/type_func.FontMap.for_display.html
 %%DOCS%%share/doc/PangoFT2/urlmap.js
 %%DOCS%%share/doc/PangoFc/PangoFc.devhelp2
+%%DOCS%%share/doc/PangoFc/opensearch.xml
 %%DOCS%%share/doc/PangoFc/RedHatDisplay-Black.woff
 %%DOCS%%share/doc/PangoFc/RedHatDisplay-Black.woff2
 %%DOCS%%share/doc/PangoFc/RedHatDisplay-BlackItalic.woff
@@ -961,6 +964,7 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/PangoFc/vfunc.Decoder.get_charset.html
 %%DOCS%%share/doc/PangoFc/vfunc.Decoder.get_glyph.html
 %%DOCS%%share/doc/PangoOT/PangoOT.devhelp2
+%%DOCS%%share/doc/PangoOT/opensearch.xml
 %%DOCS%%share/doc/PangoOT/RedHatDisplay-Black.woff
 %%DOCS%%share/doc/PangoOT/RedHatDisplay-Black.woff2
 %%DOCS%%share/doc/PangoOT/RedHatDisplay-BlackItalic.woff
@@ -1053,6 +1057,7 @@ libdata/pkgconfig/pangoot.pc
 %%DOCS%%share/doc/PangoOT/type_func.Ruleset.get_for_description.html
 %%DOCS%%share/doc/PangoOT/urlmap.js
 %%X11%%%%DOCS%%share/doc/PangoXft/PangoXft.devhelp2
+%%X11%%%%DOCS%%share/doc/PangoXft/opensearch.xml
 %%X11%%%%DOCS%%share/doc/PangoXft/RedHatDisplay-Black.woff
 %%X11%%%%DOCS%%share/doc/PangoXft/RedHatDisplay-Black.woff2
 %%X11%%%%DOCS%%share/doc/PangoXft/RedHatDisplay-BlackItalic.woff
